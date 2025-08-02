@@ -1,1 +1,1 @@
-Ce dossier est destiné à contenir les composants réutilisables de l'application LaitGO. 
+Ce dossier est destiné à contenir les services (API, base de données, etc.) de l'application LaitGO. 
