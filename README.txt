@@ -1,0 +1,1 @@
+Ce dossier est destiné à contenir les composants réutilisables de l'application LaitGO. 
